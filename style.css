@@ -1,0 +1,35 @@
+h1{
+      font-size: xx-large;
+      font-style: normal;
+      font-weight: 900;
+      text-transform: uppercase;
+      /* text-decoration: solid; */
+      /* text-decoration: overline; */
+      text-decoration: underline;
+}
+        
+      h3{
+      font-size: larger;
+      font-weight: 700;
+    }
+    
+    h4{
+      font-size: large;
+      font-weight: 500;
+      font-style: oblique;
+}
+.needpurple{
+    color: purple;
+}
+#disclaimer{
+    color: darkblue;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.881);
+}
+body{
+    color: whitesmoke;
+}
