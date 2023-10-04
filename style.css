@@ -3,33 +3,39 @@ h1{
       font-style: normal;
       font-weight: 900;
       text-transform: uppercase;
-      /* text-decoration: solid; */
-      /* text-decoration: overline; */
-      text-decoration: underline;
-}
+      
+  }
         
-      h3{
+h3{
       font-size: larger;
       font-weight: 700;
-    }
+   }
     
-    h4{
+h4{
       font-size: large;
       font-weight: 500;
       font-style: oblique;
-}
+   }
 .needpurple{
-    color: purple;
+      color: purple;
 }
 #disclaimer{
-    color: darkblue;
+      color: darkblue;
 }
 .uppercase{
-    text-transform: uppercase;
+      text-transform: uppercase;
+}
+
+.borderallin{
+      border: solid 3px rgb(0, 0, 0);
+      border-radius: 35px;
+      text-align: center;
 }
 body{
-    background-color: rgba(0, 0, 0, 0.881);
+      background-color: silver;
 }
-body{
-    color: whitesmoke;
+.margin{
+      margin: 20px;
+      border: solid 1px;
+      border-radius: 35px;
 }
